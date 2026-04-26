@@ -3,7 +3,7 @@
 A lightweight, real-time system resource tracker for Linux. This tool provides a live view of CPU and Memory consumption while identifying and ranking resource-heavy processes.
 
  # 📷 Demo
-![Demo](assets/Linux-Process_Monitor.gif)
+![Demo](assets/Linux-Process-Monitor.gif)
 
 ## 🚀 Getting Started
 
