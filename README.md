@@ -50,4 +50,5 @@ The project is built to handle real-time system diagnostics through efficient da
  * **Alert System:** Triggering desktop notifications when CPU or RAM usage exceeds a user-defined threshold.
 
   📜 License
+  
 This project is licensed under the **MIT License**. It is free to use, modify, and distribute for personal or professional use.
